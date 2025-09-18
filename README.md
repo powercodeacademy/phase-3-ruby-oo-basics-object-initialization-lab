@@ -101,7 +101,7 @@ lassie.breed; // => "Collie"
 
 ## Instructions
 
-Fork and clone the lab and run the tests with `learn test`.
+Fork and clone the lab and run the tests with `bin/rspec`.
 
 ### 1. `Person#initialize` with a Name
 
